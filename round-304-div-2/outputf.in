@@ -1,0 +1,18 @@
+a : S
+b :S
+<
+a : L
+b :L
+>
+a : L
+b :M
+>
+a : L
+b :L
+=
+a : S
+b :M
+<
+a : L
+b :M
+>
